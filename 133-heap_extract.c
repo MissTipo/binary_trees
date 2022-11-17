@@ -3,7 +3,7 @@
 /**
 * heap_extract - pending.
 * @root: pending.
-* Return: pending.
+* Return: 1 or 0
 */
 int heap_extract(heap_t **root)
 {
